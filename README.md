@@ -33,4 +33,3 @@ I selected the **Titanic Passenger Survival** dataset from Kaggle, which contain
 
 ---
 
-*This README provides an overview of my data preparation and exploratory analysis as the foundation for predictive modeling in Deliverable 2.*  
